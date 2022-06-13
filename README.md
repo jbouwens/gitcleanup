@@ -1,6 +1,6 @@
 ### Git Cleanup
 
-Removes merged branches. Can be automated with Windows Task Scheduler.
+Removes merged branches. Can be automated with Windows Task Scheduler, and integrated with a slack web hook.
 
 ![this is how it looks in slack](/slack.png)
 
